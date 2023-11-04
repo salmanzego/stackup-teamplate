@@ -1,3 +1,4 @@
+
 ![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
 # Ecommerce Clothing Store
 This is Ecommerce store for Clothing in which we Register/Login and Buy from it. 
@@ -8,7 +9,7 @@ This is Ecommerce store for Clothing in which we Register/Login and Buy from it.
 4. Category Filter
 ## Team members
 1. Salman Faris P [https://github.com/salmanzego/]
-2. Muhammed Althaf PA [Embed perosnal github URL]
+2. Muhammed Althaf PA [https://github.com/althafmuhammad2115/]
 ## Team Id
 Ctrl+Alt+Collab
 ## Link to product walkthrough
