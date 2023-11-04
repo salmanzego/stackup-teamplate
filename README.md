@@ -1,11 +1,16 @@
 ![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+# Ecommerce Clothing Store
+This is Ecommerce store for Clothing in which we Register/Login and Buy from it. 
+### Features planning to build
+1. Register/Login
+2. Add to Cart
+3. Buy
+4. Category Filter
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Salman Faris P [https://github.com/salmanzego/]
+2. Muhammed Althaf PA [Embed perosnal github URL]
 ## Team Id
-Team id here
+Ctrl+Alt+Collab
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
